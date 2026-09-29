@@ -27,4 +27,4 @@ npm run dev
 ![Color Generator](./screenshot.png)
 
 ## Live Demo
-[Color Generator](https://09-color-generator.vercel.app/)
+[Color Generator](https://09-color-generator.sausamui.xyz/)
